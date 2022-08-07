@@ -9,7 +9,7 @@ use anchor_lang::{
     }
 };
 
-declare_id!("BMuqkhWcrVZpP5esxn7EnNfAe3V3CWxHj73KSsUJ53gL");
+declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
 
 #[program]
 pub mod auction {
